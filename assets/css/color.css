@@ -1,0 +1,505 @@
+/* template-color */
+
+.scroll-top{
+  background-color: #a161bf;
+}
+
+.handle-preloader{
+	background-color: #a161bf;
+}
+
+.preloader-close{
+	color: #a161bf;
+}
+
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li:hover > a{
+  color: #a161bf !important;
+}
+
+.main-header .menu-right-content .user-link a:hover{
+  background: #a161bf !important;
+}
+
+.main-header .search-box-btn:hover{
+  background: #a161bf !important;
+}
+
+.main-menu .navigation > li > ul > li > a:hover,
+.main-menu .navigation > li > .megamenu li > a:hover{
+	color: #a161bf;
+}
+
+.main-menu .navigation > li > ul, 
+.main-menu .navigation > li > .megamenu,
+.main-menu .navigation > li > ul > li > ul{
+	border-top: 3px solid #a161bf
+}
+
+.main-menu .navigation > li > ul > li > ul > li > a:hover{
+  color: #a161bf;
+}
+
+.main-header .search-box-outer .dropdown-menu{
+	background: #a161bf;
+}
+
+.theme-btn{
+	background: #a161bf;
+}
+
+.feature-block-one .inner-box .lower-content .icon-box{
+	color: #a161bf;
+}
+
+.image_block_1 .image-box .video-content .video-btn a{
+	color: #a161bf;
+}
+
+.border-animation{
+	border: 1px solid #a161bf;
+}
+
+.tour-block-one .inner-box .image-box:before{
+	background: #a161bf;
+}
+
+.tour-block-one .inner-box .lower-content .rating span i{
+	color: #ffab01;
+}
+
+.tour-block-one .inner-box .lower-content h3 a:hover{
+  color: #a161bf;
+}
+
+.tour-block-one .inner-box .lower-content h4{
+	color: #a161bf;
+}
+
+.tour-block-one .inner-box .lower-content .btn-box a:hover{
+	background: #a161bf;
+	border-color: #a161bf;
+}
+
+.content_block_2 .content-box .price h4{
+	color: #a161bf;
+}
+
+.place-block-one .inner-box .text h3 a:hover{
+  color: #a161bf;
+}
+
+.testimonial-block-one .inner-box .rating-box li{
+	color: #ffab01;
+}
+
+.testimonial-section .owl-theme .owl-dots .owl-dot.active span,
+.testimonial-section .owl-theme .owl-dots .owl-dot span:hover{
+	border-color: #a161bf;
+	background: #a161bf;
+}
+
+.video-section .inner-box .video-btn a{
+	border: 5px solid #a161bf;
+	color: #a161bf;
+}
+
+.theme-btn-two:hover{
+	border-color: #a161bf;
+}
+
+.news-block-one .inner-box .image-box{
+	background: #a161bf;
+}
+
+.news-block-one .inner-box .image-box .post-date i{
+	background: #a161bf;
+}
+
+.news-block-one .inner-box .lower-content .category a:hover{
+  background: #a161bf;
+}
+
+.news-block-one .inner-box .lower-content h3 a:hover{
+  color: #a161bf;
+}
+
+.news-block-one .inner-box .lower-content .post-info li a:hover{
+  color: #a161bf;
+}
+
+.footer-top .logo-widget .social-links li a:hover{
+  background: #a161bf;
+}
+
+.footer-top .links-widget .links-list li a:hover{
+  color: #a161bf;
+}
+
+.footer-top .links-widget .links-list li a:before{
+	background: #a161bf;
+}
+
+.footer-top .gallery-widget .image-list li .image-box{
+	background: #a161bf;
+}
+
+.footer-top .contact-widget .info-list li i{
+	color: #a161bf;
+}
+
+.footer-top .contact-widget .info-list li a:hover{
+  color: #a161bf;
+}
+
+.footer-bottom .copyright p a:hover{
+  color: #a161bf;
+}
+
+.footer-bottom .footer-nav li a:hover{
+  color: #a161bf;
+}
+
+.header-top .top-info li a:hover{
+  color: #a161bf;
+}
+
+.offer-block-one .inner-box .content-box h3 a:hover{
+  color: #a161bf;
+}
+
+.offer-block-one .inner-box .content-box h4{
+	color: #a161bf;
+}
+
+.offer-section .owl-theme .owl-dots .owl-dot.active span,
+.offer-section .owl-theme .owl-dots .owl-dot span:hover{
+  background: #a161bf !important;
+}
+
+.video-style-two .inner-container .inner-box .video-btn a{
+	border: 5px solid #a161bf;
+	color: #a161bf;
+}
+
+.funfact-style-two .pattern-layer:before{
+	background: #a161bf;
+}
+
+.banner-carousel .owl-nav .owl-prev:hover,
+.banner-carousel .owl-nav .owl-next:hover{
+  background: #a161bf;
+}
+
+.content_block_3 .content-box .text a{
+	color: #a161bf;
+}
+
+.tour-block-two .inner-box .content-box h3 a:hover{
+	color: #a161bf;
+}
+
+.tour-block-two .inner-box .content-box .btn-box a:hover{
+	background: #a161bf;
+}
+
+.tour-block-two .inner-box .image-box:before{
+	background: #a161bf;
+}
+
+.tour-block-two .inner-box .content-box .rating span i{
+	color: #ffab01;
+}
+
+.tour-block-two .inner-box .content-box h4{
+	color: #a161bf;
+}
+
+.dots-style-one .owl-dots .owl-dot.active span,
+.dots-style-one .owl-dots .owl-dot span:hover{
+	background-color: #a161bf;
+	border-color: #a161bf;
+}
+
+.deals-style-two .single-deals-box .inner-box .content-box h3 a:hover{
+  color: #a161bf;
+}
+
+.deals-style-two .single-deals-box .inner-box .content-box h4{
+	color: #a161bf;
+}
+
+.deals-style-two .owl-nav .owl-prev:hover,
+.deals-style-two .owl-nav .owl-next:hover{
+  background: #a161bf;
+}
+
+.single-feed-box .inner-box .link a:hover{
+  color: #a161bf;
+}
+
+.destination-details-content .country-details .details-list li i{
+	color: #a161bf;
+}
+
+.destination-details-content .country-details .details-list li a:hover{
+  color: #a161bf;
+}
+
+.destination-details-content .comment-box .comment-form .form-group input:focus,
+.destination-details-content .comment-box .comment-form .form-group textarea:focus{
+  border-color: #a161bf !important;
+}
+
+.default-sidebar .search-form .form-group input:focus{
+  border-color: #a161bf !important;
+}
+
+.default-sidebar .search-form .form-group input:focus + button,
+.default-sidebar .search-form .form-group button:hover{
+	color: #a161bf;
+}
+
+.default-sidebar .downloads-widget .download-links li a:hover{
+	color: #a161bf;
+}
+
+.default-sidebar .downloads-widget .download-links li a:hover i{
+  color: #a161bf;
+}
+
+.default-sidebar .post-widget .post .post-thumb{
+	background: #a161bf;
+}
+
+.default-sidebar .post-widget .post h4 a:hover{
+  color: #a161bf;
+}
+
+.default-sidebar .advice-widget .inner-box:before{
+	background: #a161bf;
+}
+
+.tours-page-section .item-shorting .right-column .menu-box button.on{
+	background: #a161bf;
+	border-color: #a161bf;
+}
+
+.pagination li a:hover,
+.pagination li a.current{
+	background: #a161bf;
+}
+
+.custom-check-box .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
+	background: #a161bf !important;
+	border-color: #a161bf !important;
+}
+
+.range-slider .ui-slider .ui-slider-range{
+	background: #a161bf;
+}
+
+.range-slider .ui-state-default,
+.range-slider .ui-widget-content .ui-state-default{
+	background: #a161bf;
+}
+
+.custom-check-box .custom-controls-stacked .description i{
+	color: #ffab01;
+}
+
+.page-title.style-three .inner-box .rating span i{
+	color: #ffab01;
+}
+
+.page-title.style-three .inner-box h3{
+	color: #a161bf;
+}
+
+.tour-details-content .inner-box .text .info-list li i{
+	color: #a161bf;
+}
+
+.tour-details-content .overview-inner .overview-list li ul.included-list li:before{
+	color: #2ccd9d;
+}
+
+.tour-details-content .overview-inner .overview-list li ul.excluded-list li:before{
+	color: #a161bf;
+}
+
+.tour-details-content .tour-plan .single-box span{
+	background: #a161bf;
+}
+
+.tour-details-content .tour-plan .single-box h4{
+	color: #a161bf;
+}
+
+.progress-box .bar-inner{
+	background: #a161bf;
+}
+
+.tour-details-content .review-box .text h2{
+	color: #a161bf;
+}
+
+.tour-details-content .comment-box .comment-form .form-group input:focus,
+.tour-details-content .comment-box .comment-form .form-group textarea:focus{
+	border-color: #a161bf !important;
+}
+
+.tour-details-content .comment-box .text .list li i{
+	color: #ffab01;
+}
+
+.tour-sidebar .tour-form .form-group input:focus,
+.tour-sidebar .tour-form .form-group textarea:focus{
+  border-color: #a161bf !important;
+}
+
+.team-block-one .inner-box .lower-content h3 a:hover{
+  color: #a161bf;
+}
+
+.team-block-one .inner-box .lower-content .social-links li a:hover{
+  background: #a161bf;
+}
+
+.booking-process-content .process-label li.current{
+  background: #a161bf;
+}
+
+.booking-process-content .processing-form .form-group input:focus,
+.booking-process-content .processing-form .form-group textarea:focus{
+  border-color: #a161bf !important;
+}
+
+.process-sidebar .content-box .info li i{
+	color: #a161bf;
+}
+
+.process-sidebar .content-box .price h4{
+	color: #a161bf;
+}
+
+.booking-process-2 .booking-process-content .process-label li:first-child{
+  color: #a161bf;
+}
+
+.booking-process-3 .booking-process-content .process-label li:first-child,
+.booking-process-3 .booking-process-content .process-label li:nth-child(2){
+  color: #a161bf;
+}
+
+.booking-process-content .confirm-box .inner-box .icon-box{
+	color: #39cabb;
+}
+
+.booking-process-content .confirm-box .inner-box p a{
+	color: #a161bf;
+}
+
+.accordion-box .block .acc-btn.active{
+  background: #a161bf;
+}
+
+.faq-sidebar .sidebar-inner .faq-form .form-group input:focus,
+.faq-sidebar .sidebar-inner .faq-form .form-group textarea:focus{
+  border-color: #a161bf !important;
+}
+
+.register-section .inner-box .form-inner .social-links li a:hover{
+	background: #a161bf;
+}
+
+.register-section .inner-box .form-inner .form-group input:focus{
+  border-color: #a161bf !important;
+}
+
+.register-section .inner-box .form-inner .custom-check-box .custom-controls-stacked .description a{
+  color: #a161bf;
+  border-bottom: 1px solid #a161bf;
+}
+
+.register-section .inner-box .form-inner .other-text a{
+  color: #a161bf;
+}
+
+.register-section .inner-box .form-inner .forgor-password a{
+  color: #a161bf;
+}
+
+.error-section .inner-box h1{
+	color: #a161bf;
+}
+
+.blog-sidebar .category-widget .category-list li a i{
+	color: #a161bf;
+}
+
+.blog-sidebar .category-widget .category-list li a:hover{
+	color: #a161bf;
+}
+
+.news-block-one .inner-box .lower-content h2 a:hover{
+  color: #a161bf;
+}
+
+.news-block-one .inner-box .lower-content .post-info li.comment a:hover{
+  color: #a161bf;
+}
+
+.blog-details-content .post-share-option .social-links li:first-child a{
+	background: #466ca9;
+}
+
+.blog-details-content .post-share-option .social-links li:nth-child(2) a{
+	background: #dd4b39;
+}
+
+.blog-details-content .post-share-option .social-links li:last-child a{
+	background: #55acee;
+}
+
+.blog-details-content .comment-box .comment .reply-btn:hover{
+  color: #a161bf;
+}
+
+.blog-details-content .comments-form-area .form-inner .form-group input:focus,
+.blog-details-content .comments-form-area .form-inner .form-group textarea:focus{
+  border-color: #a161bf !important;
+}
+
+.single-info-box .inner-box .icon-box{
+	color: #a161bf;
+}
+
+.single-info-box .inner-box p a:hover{
+  color: #a161bf;
+}
+
+.single-info-box .inner-box:hover .icon-box{
+	background: #a161bf;
+}
+
+.content_block_5 .content-box .social-links li:first-child a{
+	background: #466ca9;
+}
+
+.content_block_5 .content-box .social-links li:nth-child(2) a{
+  background: #dd4b39;
+}
+
+.content_block_5 .content-box .social-links li:last-child a{
+  background: #55acee;
+}
+
+.contact-section .form-inner .form-group input:focus,
+.contact-section .form-inner .form-group textarea:focus{
+	border-color: #a161bf !important;
+}
+
+.news-block-one .inner-box .lower-content .category a{
+	background: #a161bf;
+}
